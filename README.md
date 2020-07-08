@@ -2,7 +2,7 @@
 Génération de reçu, ......
 
 
-##  Installer  xhtml2pdf
+##  Installer  xhtml2pdf  (ne prend pas en compte toutes les propriétés css
 
 ```
 pip install xhtml2pdf
